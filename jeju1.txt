@@ -1,1 +1,2 @@
-jeju1.txt
+jeju1.txt입니다.
+updqte 했습니다.
